@@ -20,3 +20,8 @@ font-family: Arial, Helvetica, sans-serif;/*tipo letra*/
 font-size: 22px; /*tamaño letra*/
 text-decoration: none;/*le quita el subrayado a las letra */
 }
+
+.container {
+    column-width: 10em;
+    column-rule: 1px solid rgb(75, 70, 74);
+}
